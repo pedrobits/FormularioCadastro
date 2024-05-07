@@ -1,5 +1,7 @@
 # Formulario de cadastro - FrontEnd
 
+![download](https://github.com/pedrobits/FormularioCadastro/assets/70610289/52ec8fb6-9076-4d77-98a5-a3e738b31a82)
+
 ## Descrição
 
 Este projeto é uma tela de cadastro desenvolvida como parte de um estudo utilizando React e Tailwind CSS. O objetivo é demonstrar a criação de uma interface responsiva e amigável para capturar informações de usuários.
