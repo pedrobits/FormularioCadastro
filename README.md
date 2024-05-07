@@ -1,8 +1,43 @@
-# React + Vite
+# Formulario de cadastro - FrontEnd
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
 
-Currently, two official plugins are available:
+Este projeto é uma tela de cadastro desenvolvida como parte de um estudo utilizando React e Tailwind CSS. O objetivo é demonstrar a criação de uma interface responsiva e amigável para capturar informações de usuários.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades
+
+- Formulário de cadastro com campos básicos.
+- Interface totalmente responsiva, adaptável a dispositivos de diferentes tamanhos.
+
+## Tecnologias Utilizadas
+
+- React
+- Tailwind CSS
+
+## Como executar
+
+1. Instale as dependências:
+
+```bash
+npm install
+```
+
+2. Inicie a aplicação:
+
+```bash
+npm start
+```
+
+3. Acesse a aplicação no seu navegador utilizando o endereço:
+
+```
+http://localhost:5173
+```
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues relatando problemas ou sugestões.
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
